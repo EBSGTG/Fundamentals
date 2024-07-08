@@ -23,5 +23,5 @@ def validation(login, password):
     else:
         print("Enter your credentials")
 
-    print("Welcome to Cum")
+    print("Logining successfully")
 
